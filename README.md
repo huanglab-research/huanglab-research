@@ -7,7 +7,7 @@
 #### Qibing Qin, Lei Huang, Kezhen Xie, Zhiqiang Wei, Chengduan Wang, Wenfeng Zhang, Deep Adaptive Quadruplet Hashing with Probability Sampling for Large-Scale Image Retrieval, IEEE Transactions on Circuits and Systems for Video Technology, 2023
 #### Yadong Huo, Qibing Qin, Jiangyan Dai, Lei Wang, Wenfeng Zhang, Lei Huang; Chengduan Wang, Deep Semantic-aware Proxy Hashing for Multi-label Cross-modal Retrieval， IEEE Transactions on Circuits and Systems for Video Technology, 2023
 #### Jie Nie, Lei Huang*, Chengyu Zheng, Xiaowei Lv, Rui Wang, Cross-scale graph interaction network for semantic segmentation of remote sensing images, ACM Transactions on Multimedia Computing, Communications, and Applications, 2022
-#### Zhipeng Ma, Xiaoyu Wu, Anzhuo Chu, Lei Huang*, Zhiqiang Wei, SwinFG: A Fine-grained Recognition Scheme Based on Swin Transformer, Expert Systems with Applications, 2023
+#### Zhipeng Ma, Xiaoyu Wu, Anzhuo Chu, Lei Huang*, Zhiqiang Wei, SwinFG: A Fine-grained Recognition Scheme Based on Swin Transformer, Expert Systems with Applications, 2023（[Code](https://github.com/huanglab-research/SwinFG)）
 
 <!--
 **huanglab-research/huanglab-research** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
