@@ -1,4 +1,4 @@
-# Paper results from our laboratory
+# Papers from our laboratory
 **Xian Zhao, Lei Huang\*, Jie Nie, Zhiqiang Wei, Towards Adaptive Multi-Scale Intermediate Domain via Progressive Training for Unsupervised Domain Adaptation, IEEE Transactions on Multimedia,  2023**
 
 **Hu Cao, Lei Huang\*, Jie Nie, Zhiqiang Wei, Unsupervised Deep Hashing with Fine-grained Similarity-preserving Contrastive Learning for Image Retrieval,  IEEE Transactions on Circuits and Systems for Video Technology, 2023（[Code](https://github.com/huanglab-research/FSCH)）**
