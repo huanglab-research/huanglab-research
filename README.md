@@ -1,17 +1,17 @@
 # Papers from our laboratory
-**Xian Zhao, Lei Huang\*, Jie Nie, Zhiqiang Wei, Towards Adaptive Multi-Scale Intermediate Domain via Progressive Training for Unsupervised Domain Adaptation, IEEE Transactions on Multimedia,  2023**
+**Xian Zhao, Lei Huang\*, Jie Nie, Zhiqiang Wei, Towards Adaptive Multi-Scale Intermediate Domain via Progressive Training for Unsupervised Domain Adaptation, IEEE Transactions on Multimedia, 2023**
 
 **Hu Cao, Lei Huang\*, Jie Nie, Zhiqiang Wei, Unsupervised Deep Hashing with Fine-grained Similarity-preserving Contrastive Learning for Image Retrieval,  IEEE Transactions on Circuits and Systems for Video Technology, 2023（[Code](https://github.com/huanglab-research/FSCH)）**
 
 **Qibing Qin, Kezhen Xie, Wenfeng Zhang, Chengduan Wang, Lei Huang\*, Deep Neighborhood Structure-preserving Hashing for Large-Scale Image Retrieval,  IEEE Transactions on Multimedia, 2023**
 
-**Guanqun Wei, Xiaojing Li, Lei Huang\*, Jie Nie, Zhiqiang Wei, Unsupervised Domain Adaptation via Reliable Pseudolabeling based Memory Module and Dynamic Distance Threshold Learning, Knowledge-Based Systems,  2023**
+**Guanqun Wei, Xiaojing Li, Lei Huang\*, Jie Nie, Zhiqiang Wei, Unsupervised Domain Adaptation via Reliable Pseudolabeling based Memory Module and Dynamic Distance Threshold Learning, Knowledge-Based Systems, 2023**
 
 **Qibing Qin, Lei Huang\*, Zhiqiang Wei, Kezhen Xie, Wenfeng Zhang, Unsupervised Deep Multi-Similarity Hashing with Semantic Structure for Image Retrieval, IEEE Transactions on Circuits and Systems for Video Technology, 2021**
 
-**Xiaojing Li, Lei Huang\*, Zhiqiang Wei, A twofold convolutional regression tracking network with temporal and spatial mechanism,  IEEE Transactions on Circuits and Systems for Video Technology,  2021**
+**Xiaojing Li, Lei Huang\*, Zhiqiang Wei, A twofold convolutional regression tracking network with temporal and spatial mechanism,  IEEE Transactions on Circuits and Systems for Video Technology, 2021**
 
-**Yadong Huo, Qibing Qin, Wenfeng Zhang, Lei Huang\*, Jie Nie，Deep Hierarchy-aware Proxy Hashing with Self-paced Learning for Cross-modal Retrieval，IEEE Transactions on Knowledge and Data Engineering，2024（accepted）**
+**Yadong Huo, Qibing Qin, Wenfeng Zhang, Lei Huang\*, Jie Nie, Deep Hierarchy-aware Proxy Hashing with Self-paced Learning for Cross-modal Retrieval, IEEE Transactions on Knowledge and Data Engineering，2024（accepted）**
 
 **Qibing Qin, Lei Huang, Kezhen Xie, Zhiqiang Wei, Chengduan Wang, Wenfeng Zhang, Deep Adaptive Quadruplet Hashing with Probability Sampling for Large-Scale Image Retrieval, IEEE Transactions on Circuits and Systems for Video Technology, 2023**
 
