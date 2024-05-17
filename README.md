@@ -11,7 +11,7 @@
 
 **Xiaojing Li, Lei Huang\*, Zhiqiang Wei, A twofold convolutional regression tracking network with temporal and spatial mechanism,  IEEE Transactions on Circuits and Systems for Video Technology, 2021**
 
-**Yadong Huo, Qibing Qin, Wenfeng Zhang, Lei Huang\*, Jie Nie, Deep Hierarchy-aware Proxy Hashing with Self-paced Learning for Cross-modal Retrieval, IEEE Transactions on Knowledge and Data Engineering, 2024（accepted）**
+**Yadong Huo, Qibing Qin, Wenfeng Zhang, Lei Huang\*, Jie Nie, Deep Hierarchy-aware Proxy Hashing with Self-paced Learning for Cross-modal Retrieval, IEEE Transactions on Knowledge and Data Engineering, 2024**
 
 **Qibing Qin, Lei Huang, Kezhen Xie, Zhiqiang Wei, Chengduan Wang, Wenfeng Zhang, Deep Adaptive Quadruplet Hashing with Probability Sampling for Large-Scale Image Retrieval, IEEE Transactions on Circuits and Systems for Video Technology, 2023**
 
