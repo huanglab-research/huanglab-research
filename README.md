@@ -2,11 +2,11 @@
 
 **Xian Zhao, Lei Huang\*, Jie Nie, Zhiqiang Wei, Towards Adaptive Multi-Scale Intermediate Domain via Progressive Training for Unsupervised Domain Adaptation, IEEE Transactions on Multimedia, 2023**
 
-**Qibing Qin, Lei Wu, Wenfeng Zhang, Lei Huang*, Jie Nie, Deep Semantic-consistent Penalizing Hashing for Cross-modal Retrieval, IEEE Transactions on Multimedia，2025**
+**Qibing Qin, Lei Wu, Wenfeng Zhang, Lei Huang\*, Jie Nie, Deep Semantic-consistent Penalizing Hashing for Cross-modal Retrieval, IEEE Transactions on Multimedia，2025**
 
 **Hu Cao, Lei Huang\*, Jie Nie, Zhiqiang Wei, Unsupervised Deep Hashing with Fine-grained Similarity-preserving Contrastive Learning for Image Retrieval,  IEEE Transactions on Circuits and Systems for Video Technology, 2023（[Code](https://github.com/huanglab-research/FSCH)）**
 
-**Qibing Qin, Yadong Huo, Wenfeng Zhang, Lei Huang*, Jie Nie，Deep Discriminative Boundary Hashing for Cross-modal Retrieval，IEEE Transactions on Circuits and Systems for Video Technology，2025**
+**Qibing Qin, Yadong Huo, Wenfeng Zhang, Lei Huang\*, Jie Nie，Deep Discriminative Boundary Hashing for Cross-modal Retrieval，IEEE Transactions on Circuits and Systems for Video Technology，2025**
 
 **Qibing Qin, Kezhen Xie, Wenfeng Zhang, Chengduan Wang, Lei Huang\*, Deep Neighborhood Structure-preserving Hashing for Large-Scale Image Retrieval,  IEEE Transactions on Multimedia, 2023**
 
