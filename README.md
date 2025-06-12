@@ -19,7 +19,7 @@
 
 **Jie Nie, Lei Huang\*, Chengyu Zheng, Xiaowei Lv, Rui Wang, Cross-scale graph interaction network for semantic segmentation of remote sensing images, ACM Transactions on Multimedia Computing, Communications, and Applications, 2022**
 
-**Chenjuan Zuo, Zhiqiang Wei, Xiaodong Wang, Jie Nie, Lei Huang\*, SwinFG: A Fine-grained Recognition Scheme Based on Swin Transformer, Expert Systems with Applications, 2025（[Code](https://github.com/huanglab-research/DiffRCR)）**
+**Chenjuan Zuo, Zhiqiang Wei, Xiaodong Wang, Jie Nie, Lei Huang\*, Omni-frequency Diffusion-based Regional Feature Consistency Recovery for Blind Image Super-Resolution, Expert Systems with Applications, 2025（[Code](https://github.com/huanglab-research/DiffRCR)）**
 
 **Zhipeng Ma, Xiaoyu Wu, Anzhuo Chu, Lei Huang\*, Zhiqiang Wei, SwinFG: A Fine-grained Recognition Scheme Based on Swin Transformer, Expert Systems with Applications, 2023（[Code](https://github.com/huanglab-research/SwinFG)）**
 
