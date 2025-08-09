@@ -1,5 +1,7 @@
 # Papers from our laboratory
 
+**Yao Xu, Lei Huang\*, Jie Nie, Yadong Huo and Zhiqiang Wei, Towards Region-Aware Finer Self-Supervised Learning for Fine-Grained Visual Recognition, IEEE Transactions on Multimedia, 2025**
+
 **Xian Zhao, Lei Huang\*, Jie Nie, Zhiqiang Wei, Towards Adaptive Multi-Scale Intermediate Domain via Progressive Training for Unsupervised Domain Adaptation, IEEE Transactions on Multimedia, 2023**
 
 **Qibing Qin, Lei Wu, Wenfeng Zhang, Lei Huang\*, Jie Nie, Deep Semantic-consistent Penalizing Hashing for Cross-modal Retrieval, IEEE Transactions on Multimedia, 2025**
