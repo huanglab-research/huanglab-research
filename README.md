@@ -1,5 +1,10 @@
 # Papers from our laboratory
 
+**Jialu Shi, Zhiqiang Wei, Jie Nie, Lei Huang\*, LoDisc: Learning Global-Local Discriminative Features for Self-Supervised Fine-Grained Visual Recognition, IEEE Transactions on Circuits and Systems for Video Technology, 2025**
+
+**Qibing Qin, Lei Wu, Wenfeng Zhang, Huihui Zhang, Lei Huang\*, Jie Nie, Deep Semantic Tuplet-based Hashing by Hypergraph Modeling for Cross-modal Retrieval, IEEE Transactions on Multimedia, 2025**
+
+**Jialu Shi, Zhiqiang Wei, Jie Nie, Lei Huang\*，LoDisc: Learning global-local discriminative features for self-supervised fine-grained visual recognition，IEEE Transactions on Circuits and Systems for Video Technology，2025**
 
 **Xian Zhao, Lei Huang\*, Jie Nie, Zhiqiang Wei, Towards Adaptive Multi-Scale Intermediate Domain via Progressive Training for Unsupervised Domain Adaptation, IEEE Transactions on Multimedia, 2023**
 
