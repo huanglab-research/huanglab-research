@@ -1,5 +1,11 @@
 # Papers from our laboratory
 
+**Yao Xu, Lei Huang\*, Jie Nie, Yadong Huo, Zhiqiang Wei, Towards Region-Aware Finer Self-Supervised Learning for Fine-Grained Visual Recognition, IEEE Transactions on Multimedia, 2026 (code[1.1])(accepted)**
+
+**Ke Zhang, Lei Huang\*, Jie Nie, Yadong Huo, Jin Du, Zhiqiang Wei, Reference-Based Super-Resolution with Geometry-Aware Transfer, IEEE Transactions on Circuits and Systems for Video Technology, 2026(code[2.1])(accepted)**
+
+**Lei Huang, Ke Zhang, Xiaodong Wang, Jie Nie, Zhiqiang Wei, Uncertainty-Guided Adversarial Diffusion Model for Sea Surface Temperature Super-Resolution, IEEE Transactions on Geoscience and Remote Sensing, 2026 (code[3)**
+
 **Jialu Shi, Zhiqiang Wei, Jie Nie, Lei Huang\*, LoDisc: Learning Global-Local Discriminative Features for Self-Supervised Fine-Grained Visual Recognition, IEEE Transactions on Circuits and Systems for Video Technology, 2025**
 
 **Qibing Qin, Lei Wu, Wenfeng Zhang, Huihui Zhang, Lei Huang\*, Jie Nie, Deep Semantic Tuplet-based Hashing by Hypergraph Modeling for Cross-modal Retrieval, IEEE Transactions on Multimedia, 2025**
