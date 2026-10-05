@@ -1,8 +1,10 @@
 # Papers from our laboratory
 
-**Jin Du, Lei Huang\*, Jie Nie,  Ke Zhang,  Zhiqiang Wei, Fine-Grained Semantic-Guided Image Super-Resolution, IEEE Transactions on Multimedia, 2026 ([code](https://github.com/huanglab-research/FSGAN))(accepted)**
+**Ting Yang, Lei Huang\*, Jie Nie, Zhiqiang Wei, Dual-Path Discriminative Semantic Distillation for Self-Supervised Fine-Grained Visual Recognition, IEEE Transactions on Circuits and Systems for Video Technology, 2026 ([code](https://github.com/huanglab-research/DP-DSD))**
 
-**Yao Xu, Lei Huang\*, Jie Nie, Yadong Huo, Zhiqiang Wei, Towards Region-Aware Finer Self-Supervised Learning for Fine-Grained Visual Recognition, IEEE Transactions on Multimedia, 2026 ([code](https://github.com/huanglab-research/RAFG))(accepted)**
+**Jin Du, Lei Huang\*, Jie Nie,  Ke Zhang,  Zhiqiang Wei, Fine-Grained Semantic-Guided Image Super-Resolution, IEEE Transactions on Multimedia, 2026 ([code](https://github.com/huanglab-research/FSGAN))**
+
+**Yao Xu, Lei Huang\*, Jie Nie, Yadong Huo, Zhiqiang Wei, Towards Region-Aware Finer Self-Supervised Learning for Fine-Grained Visual Recognition, IEEE Transactions on Multimedia, 2026 ([code](https://github.com/huanglab-research/RAFG))**
 
 **Ke Zhang, Lei Huang\*, Jie Nie, Yadong Huo, Jin Du, Zhiqiang Wei, Reference-Based Super-Resolution with Geometry-Aware Transfer, IEEE Transactions on Circuits and Systems for Video Technology, 2026 ([code](https://github.com/huanglab-research/GeoRef))**
 
